@@ -2,7 +2,8 @@
 by Mingchen Zhuge^, Dehong Gao^, Deng-Ping Fan#, Linbo Jin, Ben Chen, Minghui Qiu, Ling Shao.
 
 ## Code
-Will be released soon.
+This project is built on [Huggingface](https://github.com/huggingface/transformers) while the raw implementation of paper is built on [EasyTransfer](https://github.com/alibaba/EasyTransfer). So there may have some differences when conduct this code.
+
 
 
 ## Citation
