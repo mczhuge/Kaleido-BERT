@@ -4,7 +4,7 @@ by Mingchen Zhuge^, Dehong Gao^, Deng-Ping Fan#, Linbo Jin, Ben Chen, Haoming Zh
 ## Code
 NOTE: This project is built on [Huggingface(pytorch)](https://github.com/huggingface/transformers) 
       while the raw implementation of paper is built on [EasyTransfer(tensorflow)](https://github.com/alibaba/EasyTransfer). 
-      So there may have some differences when conduct this code.
+      So there may have some differences.
 
 
 
