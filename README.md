@@ -3,7 +3,7 @@ Mingchen Zhuge^, Dehong Gao^, Deng-Ping Fan#, Linbo Jin, Ben Chen, Haoming Zhou,
 
 ## Code
 NOTE: This is tensorflow implementation of paper is built on Alibaba PAI [EasyTransfer](https://github.com/alibaba/EasyTransfer). 
-      We will release a Pytorch version built on [huggingface/transformers](https://github.com/huggingface/transformers).
+      We will release a Pytorch version built on Huggingface [transformers](https://github.com/huggingface/transformers).
 
 ## Acknowlegement
 
