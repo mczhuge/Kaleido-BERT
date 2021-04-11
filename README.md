@@ -1,10 +1,9 @@
 ## [Kaleido-BERT: Vision-Language Pre-training on Fashion Domain](https://arxiv.org/pdf/2101.07663.pdf)
-by Mingchen Zhuge^, Dehong Gao^, Deng-Ping Fan#, Linbo Jin, Ben Chen, Haoming Zhou, Minghui Qiu, Ling Shao.
+Mingchen Zhuge^, Dehong Gao^, Deng-Ping Fan#, Linbo Jin, Ben Chen, Haoming Zhou, Minghui Qiu, Ling Shao.
 
 ## Code
-NOTE: This project is built on [Huggingface(pytorch)](https://github.com/huggingface/transformers) 
-      while the raw implementation of paper is built on [EasyTransfer(tensorflow)](https://github.com/alibaba/EasyTransfer). 
-      So there may have some differences.
+NOTE: This is tensorflow implementation of paper is built on [EasyTransfer](https://github.com/alibaba/EasyTransfer). 
+      We will release a Pytorch version built on [huggingface/transformers](https://github.com/huggingface/transformers).
 
 
 
