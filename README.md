@@ -1,5 +1,5 @@
 ## [Kaleido-BERT: Vision-Language Pre-training on Fashion Domain](https://arxiv.org/pdf/2101.07663.pdf)
-Mingchen Zhuge^, Dehong Gao^, Deng-Ping Fan#, Linbo Jin, Ben Chen, Haoming Zhou, Minghui Qiu, Ling Shao.
+Mingchen Zhuge*, Dehong Gao*, Deng-Ping Fan#, Linbo Jin, Ben Chen, Haoming Zhou, Minghui Qiu, Ling Shao.
 
 ## Code
 NOTE: This is the tensorflow implementation of paper is built on Alibaba PAI [EasyTransfer](https://github.com/alibaba/EasyTransfer). 
