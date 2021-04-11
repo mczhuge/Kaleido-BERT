@@ -6,6 +6,7 @@ NOTE: This is the tensorflow implementation of paper is built on Alibaba PAI [Ea
       We will release a Pytorch version built on Huggingface [transformers](https://github.com/huggingface/transformers).
 
 ## Acknowlegement
+Thanks Alibaba ICBU Search Team and Alibaba PAI Team for technical support.
 
 ## Citation
 ```
