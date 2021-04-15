@@ -2,7 +2,7 @@
 Mingchen Zhuge*, Dehong Gao*, Deng-Ping Fan#, Linbo Jin, Ben Chen, Haoming Zhou, Minghui Qiu, Ling Shao.
 
 ## Code
-# NOTE: 
+### NOTE: 
 1) Code will be released in 2021/4/16
 2) This is the tensorflow implementation built on [Alibaba/EasyTransfer](https://github.com/alibaba/EasyTransfer). 
    We will also release a Pytorch version built on [Huggingface/Transformers](https://github.com/huggingface/transformers) in future.
