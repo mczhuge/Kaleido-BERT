@@ -5,7 +5,7 @@ Mingchen Zhuge*, Dehong Gao*, Deng-Ping Fan#, Linbo Jin, Ben Chen, Haoming Zhou,
 NOTE: 
 1) Code will be released in 2021/4/16
 2) This is the tensorflow implementation of paper is built on Alibaba PAI [EasyTransfer](https://github.com/alibaba/EasyTransfer). 
-   We will release a Pytorch version built on Huggingface [transformers](https://github.com/huggingface/transformers).
+   We will release a Pytorch version built on Huggingface [transformers](https://github.com/huggingface/transformers) in future.
 
 ## Acknowlegement
 Thanks Alibaba ICBU Search Team and Alibaba PAI Team for technical support.
