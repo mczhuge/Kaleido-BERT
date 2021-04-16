@@ -29,20 +29,20 @@ python setup.py develop
 cd Kaleido-BERT/scripts/checkpoint
 sh get_checkpoint.sh
 ```
-4-1. Download Testing Dataset
+4. Finetune
 ```
 cd Kaleido-BERT/scipts/dataset
 sh get_finetune_dataset.sh
 sh get_retrieve_dataset.sh
-```
-4-2. Testing CAT/SUB
-```
+
+#Testing CAT/SUB
+
 cd Kaleido-BERT/scipts
 sh run_sub.sh
 sh run_subcat.sh
-```
-4-3. Testing ITR/TIR
-```
+
+#
+
 cd Kaleido-BERT/scipts
 sh run_i2t.sh
 sh run_t2i.sh
