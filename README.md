@@ -1,7 +1,7 @@
 ## [Kaleido-BERT: Vision-Language Pre-training on Fashion Domain](https://arxiv.org/pdf/2101.07663.pdf)
 Mingchen Zhuge*, Dehong Gao*, Deng-Ping Fan#, Linbo Jin, Ben Chen, Haoming Zhou, Minghui Qiu, Ling Shao.
 
-[**[Paper]**](https://arxiv.org/pdf/2101.07663.pdf)
+[**[Paper]**](https://arxiv.org/pdf/2101.07663.pdf)[**[Video]**](https://arxiv.org/pdf/2101.07663.pdf)
 
 ## Introduction
 We present a new vision-language (VL) pre-training model dubbed Kaleido-BERT, which introduces a novel kaleido strategy for fashion cross-modality representations from transformers. In contrast to random masking strategy of recent VL models,  we design alignment guided masking to jointly focus more on image-text semantic relations. 
