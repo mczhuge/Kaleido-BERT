@@ -5,6 +5,22 @@ Mingchen Zhuge*, Dehong Gao*, Deng-Ping Fan#, Linbo Jin, Ben Chen, Haoming Zhou,
 1) Code will be released in 2021/4/16.
 2) This is the tensorflow implementation built on [Alibaba/EasyTransfer](https://github.com/alibaba/EasyTransfer). 
    We will also release a Pytorch version built on [Huggingface/Transformers](https://github.com/huggingface/transformers) in future.
+   
+## Get started
+Clone this code
+```
+git clone 
+```
+Enviroment setup
+```
+conda create  --name kaleidobert --file conda_env.info
+conda activate kaleidobert
+conda install tensorflow==1.15.0
+pip install boto3 tqdm tensorflow_datasets --index-url=https://mirrors.aliyun.com/pypi/simple/
+pip install sentencepiece==0.1.92 sklearn --index-url=https://mirrors.aliyun.com/pypi/simple/
+pip install joblib==0.14.1
+python setup.py develop
+```
 
 ## Acknowlegement
 Thanks Alibaba ICBU Search Team and Alibaba PAI Team for technical support.
