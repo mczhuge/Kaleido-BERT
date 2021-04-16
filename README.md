@@ -7,11 +7,12 @@ Mingchen Zhuge*, Dehong Gao*, Deng-Ping Fan#, Linbo Jin, Ben Chen, Haoming Zhou,
    We will also release a Pytorch version built on [Huggingface/Transformers](https://github.com/huggingface/transformers) in future.
    
 ## Get started
-Clone this code
+1. Clone this code
 ```
-git clone 
+git clone git@github.com:mczhuge/Kaleido-BERT.git
+cd Kaleido-BERT
 ```
-Enviroment setup
+2. Enviroment setup (Details can be found on conda_env.info)
 ```
 conda create  --name kaleidobert --file conda_env.info
 conda activate kaleidobert
