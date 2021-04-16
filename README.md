@@ -24,6 +24,12 @@ pip install sentencepiece==0.1.92 sklearn --index-url=https://mirrors.aliyun.com
 pip install joblib==0.14.1
 python setup.py develop
 ```
+3. Testing
+```
+```
+4. Pre-training
+```
+```
 
 ## Acknowlegement
 Thanks Alibaba ICBU Search Team and Alibaba PAI Team for technical support.
