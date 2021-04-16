@@ -3,6 +3,9 @@ Mingchen Zhuge*, Dehong Gao*, Deng-Ping Fan#, Linbo Jin, Ben Chen, Haoming Zhou,
 
 [**[Paper]**](https://arxiv.org/pdf/2101.07663.pdf)
 
+## Introduction
+![framework](model.png) 
+
 ## Updates
 1) Code will be released in 2021/4/16.
 2) This is the tensorflow implementation built on [Alibaba/EasyTransfer](https://github.com/alibaba/EasyTransfer). 
