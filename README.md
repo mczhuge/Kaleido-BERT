@@ -12,7 +12,7 @@ To this end, we carry out five novel tasks, \ie, rotation, jigsaw, camouflage, g
 1) Code will be released in 2021/4/16.
 2) This is the tensorflow implementation built on [Alibaba/EasyTransfer](https://github.com/alibaba/EasyTransfer). 
    We will also release a Pytorch version built on [Huggingface/Transformers](https://github.com/huggingface/transformers) in future.
-3) If you feel hard to download these datasets, you can comment out ‘wget http://ABC’
+3) If you feel hard to download these datasets, you can comment out ‘wget http://XXX’ in /dataset/get_pretrain_data.sh as much as you want, just 
    
 ## Get started
 1. Clone this code
