@@ -8,10 +8,11 @@ We present a new vision-language (VL) pre-training model dubbed Kaleido-BERT, wh
 To this end, we carry out five novel tasks, \ie, rotation, jigsaw, camouflage, grey-to-color, and blank-to-color for self-supervised VL pre-training at patches of different scale. Kaleido-BERT is conceptually simple and easy to extend to the existing BERT framework, it attains state-of-the-art results by large margins on four downstream tasks, including text retrieval (R@1: 4.03\% absolute improvement), image retrieval (R@1: 7.13\% abs imv.), category recognition (ACC: 3.28\% abs imv.), and fashion captioning (Bleu4: 1.2 abs imv.). We validate the efficiency of \ourmodel~on a wide range of e-commercial websites, demonstrating its broader potential in real-world applications.
 ![framework](model.png) 
 
-## Updates
+## Noted
 1) Code will be released in 2021/4/16.
 2) This is the tensorflow implementation built on [Alibaba/EasyTransfer](https://github.com/alibaba/EasyTransfer). 
    We will also release a Pytorch version built on [Huggingface/Transformers](https://github.com/huggingface/transformers) in future.
+3) If you feel hard to download these datasets, you can comment out ‘wget http://ABC’
    
 ## Get started
 1. Clone this code
