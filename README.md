@@ -24,11 +24,26 @@ pip install sentencepiece==0.1.92 sklearn --index-url=https://mirrors.aliyun.com
 pip install joblib==0.14.1
 python setup.py develop
 ```
-3. Testing
+3. Download dependancy
 ```
+cd scripts/checkpoint
+sh get_checkpoint.sh
 ```
-4. Pre-training
+4. Testing
 ```
+cd scipts/dataset
+sh get_finetune_dataset.sh
+sh get_retrieve_dataset.sh
+cd ..
+sh run_subcat.sh
+sh run_cat.sh
+sh run_i2t.sh
+sh run_t2i.sh
+```
+5. Pre-training
+```
+rm -rf checkpoint/pretrained
+sh run_pretrain.sh
 ```
 
 ## Acknowlegement
