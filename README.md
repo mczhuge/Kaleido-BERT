@@ -24,25 +24,32 @@ pip install sentencepiece==0.1.92 sklearn --index-url=https://mirrors.aliyun.com
 pip install joblib==0.14.1
 python setup.py develop
 ```
-3. Download dependancy
+3. Download Dependancy
 ```
-cd scripts/checkpoint
+cd Kaleido-BERT/scripts/checkpoint
 sh get_checkpoint.sh
 ```
-4. Testing
+4-1. Download Testing Dataset
 ```
-cd scipts/dataset
+cd Kaleido-BERT/scipts/dataset
 sh get_finetune_dataset.sh
 sh get_retrieve_dataset.sh
-cd ..
+```
+4-2. Testing CAT/SUB
+```
+cd Kaleido-BERT/scipts
+sh run_sub.sh
 sh run_subcat.sh
-sh run_cat.sh
+```
+4-3. Testing ITR/TIR
+```
+cd Kaleido-BERT/scipts
 sh run_i2t.sh
 sh run_t2i.sh
 ```
 5. Pre-training
 ```
-rm -rf checkpoint/pretrained
+rm -rf Kaleido-BERT/checkpoint/pretrained
 sh run_pretrain.sh
 ```
 
