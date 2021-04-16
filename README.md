@@ -39,5 +39,7 @@ Thanks Alibaba ICBU Search Team and Alibaba PAI Team for technical support.
 
 ## Contact
 * Mingchen Zhuge (email: mczhuge@cug.edu.cn)
+ 
                  (wechat: tjpxiaoming)
+                 
     Feel free to contact me if you have additional questions. 
