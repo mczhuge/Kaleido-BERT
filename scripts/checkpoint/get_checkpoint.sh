@@ -12,15 +12,15 @@ echo "Downloading..."
 
 cd $PRE_CKPT
 wget http://icbu-ensa-sc.oss-cn-zhangjiakou.aliyuncs.com/mingchen.zgmc/KaleidoBERT_TF_CODE/datasets/checkpoint/config.json
-wget http://icbu-ensa-sc.oss-cn-zhangjiakou.aliyuncs.com/mingchen.zgmc/KaleidoBERT_TF_CODE/datasets/kaleidobert.ckpt-50683.data-00000-of-00001
-wget http://icbu-ensa-sc.oss-cn-zhangjiakou.aliyuncs.com/mingchen.zgmc/KaleidoBERT_TF_CODE/datasets/kaleidobert.ckpt-50683.index
-wget http://icbu-ensa-sc.oss-cn-zhangjiakou.aliyuncs.com/mingchen.zgmc/KaleidoBERT_TF_CODE/datasets/kaleidobert.ckpt-50683.meta
+wget http://icbu-ensa-sc.oss-cn-zhangjiakou.aliyuncs.com/mingchen.zgmc/KaleidoBERT_TF_CODE/datasets/checkpoint/kaleidobert.ckpt-50683.data-00000-of-00001
+wget http://icbu-ensa-sc.oss-cn-zhangjiakou.aliyuncs.com/mingchen.zgmc/KaleidoBERT_TF_CODE/datasets/checkpoint/kaleidobert.ckpt-50683.index
+wget http://icbu-ensa-sc.oss-cn-zhangjiakou.aliyuncs.com/mingchen.zgmc/KaleidoBERT_TF_CODE/datasets/checkpoint/kaleidobert.ckpt-50683.meta
 
 echo "=========== Prepare EasyTransfer Dependency ==========="
 mkdir $EZ_DEP
 cd $EZ_DEP
 echo "Downloading..."
-wget http://icbu-ensa-sc.oss-cn-zhangjiakou.aliyuncs.com/mingchen.zgmc/KaleidoBERT_TF_CODE/datasets/pai-kaleidobert-base-en.zip
+wget http://icbu-ensa-sc.oss-cn-zhangjiakou.aliyuncs.com/mingchen.zgmc/KaleidoBERT_TF_CODE/datasets/eztransfer_modelzoo/pai-kaleidobert-base-en.zip
 unzip pai-kaleidobert-base-en.zip
  
 echo "Done..."
