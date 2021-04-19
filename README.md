@@ -39,19 +39,19 @@ sh get_checkpoint.sh
 ```
 #Download finetune datasets
 
-cd Kaleido-BERT/scipts/dataset
+cd Kaleido-BERT/scripts/dataset
 sh get_finetune_dataset.sh
 sh get_retrieve_dataset.sh
 
 #Testing CAT/SUB
 
-cd Kaleido-BERT/scipts
+cd Kaleido-BERT/scripts
 sh run_sub.sh
 sh run_subcat.sh
 
 #Testing TIR/ITR
 
-cd Kaleido-BERT/scipts
+cd Kaleido-BERT/scripts
 sh run_i2t.sh
 sh run_t2i.sh
 ```
@@ -59,14 +59,14 @@ sh run_t2i.sh
 ```
 #Download pre-training datasets
 
-cd Kaleido-BERT/scipts/dataset
+cd Kaleido-BERT/scripts/dataset
 sh get_prtrain_dataset.sh
 
 #Remove existed checkpoint
 rm -rf Kaleido-BERT/checkpoint/pretrained
 
 #Run pre-training
-cd Kaleido-BERT/scipts/
+cd Kaleido-BERT/scripts/
 sh run_pretrain.sh
 ```
 
