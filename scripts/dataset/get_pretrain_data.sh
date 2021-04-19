@@ -9,6 +9,7 @@ echo "=========== Prepare pre-processed Fashion-gen pre-training datasets ======
 echo "Downloading..."
 cd $PT_DATA_DIR
 
+#train
 wget http://icbu-ensa-sc.oss-cn-zhangjiakou.aliyuncs.com/mingchen.zgmc/KaleidoBERT_TF_CODE/datasets/pretrain/pretrain_train__007b71adc2cd4faaa341892805dd71c4
 wget http://icbu-ensa-sc.oss-cn-zhangjiakou.aliyuncs.com/mingchen.zgmc/KaleidoBERT_TF_CODE/datasets/pretrain/pretrain_train__0175b257c2ad4b72b03109d28a38b8e3
 wget http://icbu-ensa-sc.oss-cn-zhangjiakou.aliyuncs.com/mingchen.zgmc/KaleidoBERT_TF_CODE/datasets/pretrain/pretrain_train__0846293575774213aeb85e1654430b7a
