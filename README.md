@@ -30,7 +30,7 @@ pip install sentencepiece==0.1.92 sklearn --index-url=https://mirrors.aliyun.com
 pip install joblib==0.14.1
 python setup.py develop
 ```
-3. Download Dependancy
+3. Download Pretrained Dependancy
 ```
 cd Kaleido-BERT/scripts/checkpoint
 sh get_checkpoint.sh
