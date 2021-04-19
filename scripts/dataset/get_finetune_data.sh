@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 # This script downloads the pre-processed Fashion-gen fine-tune(cls) datasets.
 
-RT_DATA_DIR=finetune
+FT_DATA_DIR=finetune
 #DIR="$F cd "$(dirname "$0")" ; pwd -P )"
 
 mkdir $FT_DATA_DIR
