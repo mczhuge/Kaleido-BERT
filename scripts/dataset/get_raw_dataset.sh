@@ -1,5 +1,5 @@
 #!/usr/bin/env sh
-# This script downloads the pre-processed Fashion-gen retrieve datasets.
+# This script downloads the pre-processed Fashion-gen raw datasets.
 
 RAW_DATA_DIR=raw
 #DIR="$( cd "$(dirname "$0")" ; pwd -P )"
