@@ -1,5 +1,5 @@
 #!/usr/bin/env sh
-# This script downloads the pre-processed Fashion-gen fine-tune(cls) datasets.
+# This script downloads the pre-processed Fashion-gen pretrain datasets.
 
 PT_DATA_DIR=pretrain
 #DIR="$F cd "$(dirname "$0")" ; pwd -P )"
