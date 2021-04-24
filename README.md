@@ -1,4 +1,5 @@
 ## [Kaleido-BERT: Vision-Language Pre-training on Fashion Domain](https://arxiv.org/pdf/2103.16110.pdf)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 Mingchen Zhuge*, Dehong Gao*, Deng-Ping Fan#, Linbo Jin, Ben Chen, Haoming Zhou, Minghui Qiu, Ling Shao.
 
 [**[Paper]**](https://arxiv.org/pdf/2103.16110.pdf)[**[中文版]**](https://github.com/mczhuge/Kaleido-BERT/blob/main/CVPR2021_KaleidoBERT_Chinese.pdf)[**[Video]**](http://dpfan.net/wp-content/uploads/Kaleido-BERT.mp4)[**[Poster]**](https://github.com/mczhuge/Kaleido-BERT/blob/main/CVPR2021_KaleidoBERT_poster.pdf)[**[Talking]**](https://zhuanlan.zhihu.com/p/365497906)[**[Slide]**](http://dpfan.net/wp-content/uploads/MSRA_Oral_KaleidoBERT_高德宏.pdf)
