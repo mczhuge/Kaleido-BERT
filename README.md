@@ -3,7 +3,7 @@
 
 Mingchen Zhuge*, Dehong Gao*, Deng-Ping Fan#, Linbo Jin, Ben Chen, Haoming Zhou, Minghui Qiu, Ling Shao.
 
-[**[Paper]**](https://arxiv.org/pdf/2103.16110.pdf)[**[中文版]**](https://github.com/mczhuge/Kaleido-BERT/blob/main/CVPR2021_KaleidoBERT_Chinese.pdf)[**[Video]**](http://dpfan.net/wp-content/uploads/Kaleido-BERT.mp4)[**[Poster]**](https://github.com/mczhuge/Kaleido-BERT/blob/main/CVPR2021_KaleidoBERT_poster.pdf)[**[MSRA_Talking]**](https://zhuanlan.zhihu.com/p/365497906)[**[MSRA_Slide]**](http://dpfan.net/wp-content/uploads/MSRA_Oral_KaleidoBERT_高德宏.pdf)
+[**[Paper]**](https://arxiv.org/pdf/2103.16110.pdf)[**[中文版]**](https://github.com/mczhuge/Kaleido-BERT/blob/main/CVPR2021_KaleidoBERT_Chinese.pdf)[**[Video]**](http://dpfan.net/wp-content/uploads/Kaleido-BERT.mp4)[**[Poster]**](https://github.com/mczhuge/Kaleido-BERT/blob/main/CVPR2021_KaleidoBERT_poster.pdf)[**[Talking]**](https://zhuanlan.zhihu.com/p/365497906)[**[MSRA_Slide]**](http://dpfan.net/wp-content/uploads/MSRA_Oral_KaleidoBERT_高德宏.pdf)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
