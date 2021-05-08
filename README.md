@@ -50,7 +50,7 @@ sh get_retrieve_dataset.sh
 #Testing CAT/SUB
 
 cd Kaleido-BERT/scripts
-sh run_sub.sh
+sh run_cat.sh
 sh run_subcat.sh
 
 #Testing TIR/ITR
