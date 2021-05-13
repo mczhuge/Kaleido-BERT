@@ -3,8 +3,8 @@
 
 Mingchen Zhuge*, Dehong Gao*, Deng-Ping Fan#, Linbo Jin, Ben Chen, Haoming Zhou, Minghui Qiu, Ling Shao.
 
-[**[Paper]**](https://arxiv.org/pdf/2103.16110.pdf)[**[中文版]**](https://github.com/mczhuge/Kaleido-BERT/blob/main/CVPR2021_KaleidoBERT_Chinese.pdf)[**[Video]**](http://dpfan.net/wp-content/uploads/Kaleido-BERT.mp4)[**[Poster]**](https://github.com/mczhuge/Kaleido-BERT/blob/main/CVPR2021_KaleidoBERT_poster.pdf)[**[MSRA_Slide]**](http://dpfan.net/wp-content/uploads/MSRA_Oral_KaleidoBERT_高德宏.pdf)[**[News]**](https://zhuanlan.zhihu.com/p/365497906)[**[Talking1]**](https://mp.weixin.qq.com/s/PeBk5vDi7lO8ZFo8FwN10w)
-[**[Talking2]**](https://mp.weixin.qq.com/s/yPJZDeHSj8C5jGKGgDQF0Q)
+[**[Paper]**](https://arxiv.org/pdf/2103.16110.pdf)[**[中文版]**](https://github.com/mczhuge/Kaleido-BERT/blob/main/CVPR2021_KaleidoBERT_Chinese.pdf)[**[Video]**](http://dpfan.net/wp-content/uploads/Kaleido-BERT.mp4)[**[Poster]**](https://github.com/mczhuge/Kaleido-BERT/blob/main/CVPR2021_KaleidoBERT_poster.pdf)[**[MSRA_Slide]**](http://dpfan.net/wp-content/uploads/MSRA_Oral_KaleidoBERT_高德宏.pdf)[**[News1]**](https://zhuanlan.zhihu.com/p/365497906)[**[New2]**](https://mp.weixin.qq.com/s/yPJZDeHSj8C5jGKGgDQF0Q)[**[MSRA_Talking]**](https://mp.weixin.qq.com/s/PeBk5vDi7lO8ZFo8FwN10w)[**[机器之心_Talking]**](https://jmq.h5.xeknow.com/s/2ogm2v)(https://mp.weixin.qq.com/s/PeBk5vDi7lO8ZFo8FwN10w)
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
