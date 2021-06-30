@@ -27,7 +27,7 @@ cd Kaleido-BERT
 ```
 2. Enviroment setup (Details can be found on conda_env.info)
 ```
-conda create  --name kaleidobert --file conda_env.info
+conda create --name kaleidobert --file conda_env.info
 conda activate kaleidobert
 conda install tensorflow-gpu=1.15.0
 pip install boto3 tqdm tensorflow_datasets --index-url=https://mirrors.aliyun.com/pypi/simple/
