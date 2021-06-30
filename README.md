@@ -29,7 +29,7 @@ cd Kaleido-BERT
 ```
 conda create  --name kaleidobert --file conda_env.info
 conda activate kaleidobert
-conda install tensorflow==1.15.0
+conda install tensorflow-gpu=1.15.0
 pip install boto3 tqdm tensorflow_datasets --index-url=https://mirrors.aliyun.com/pypi/simple/
 pip install sentencepiece==0.1.92 sklearn --index-url=https://mirrors.aliyun.com/pypi/simple/
 pip install joblib==0.14.1
