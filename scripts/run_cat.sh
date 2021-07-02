@@ -5,8 +5,8 @@
 task=catepred
 
 echo "================ Kaleido-BERT ${task} Finetune ==============="
-ls -d ./datasets/finetune/finetune_train_* > ./datasets/train_${task}_list.list_csv
-ls -d ./datasets/finetune/finetune_valid_* > ./datasets/eval_${task}_list.list_csv
+ls -d ./dataset/finetune/finetune_train_* > ./dataset/train_${task}_list.list_csv
+ls -d ./dataset/finetune/finetune_valid_* > ./dataset/eval_${task}_list.list_csv
 
 export CUDA_VISIBLE_DEVICES="4,5,6,7"
 
@@ -14,8 +14,8 @@ python finetune_main.py \
   --workerGPU=4 \
   --mode=train_and_evaluate \
   --task=${task} \
-  --train_input_fp=./datasets/train_${task}_list.list_csv  \
-  --eval_input_fp=./datasets/eval_${task}_list.list_csv  \
+  --train_input_fp=./dataset/train_${task}_list.list_csv  \
+  --eval_input_fp=./dataset/eval_${task}_list.list_csv  \
   --pretrain_model_name_or_path=pai-kaleidobert-base-en  \
   --input_sequence_length=64  \
   --train_batch_size=64  \
