@@ -4,16 +4,16 @@
 
 echo "================ Kaleido-BERT Pretraining ==============="
 
-ls -d ./datasets/pretrain/pretrain_train* > ./datasets/train_list.list_csv
-ls -d ./datasets/pretrain/pretrain_valid* > ./datasets/dev_list.list_csv
+ls -d ./dataset/pretrain/pretrain_train* > ./dataset/train_list.list_csv
+ls -d ./dataset/pretrain/pretrain_valid* > ./dataset/dev_list.list_csv
 
 export CUDA_VISIBLE_DEVICES="0,1,2,3"
 
 python pretrain_main.py \
   --workerGPU=4 \
   --mode=train_and_evaluate \
-  --train_input_fp=./datasets/train_list.list_csv  \
-  --eval_input_fp=./datasets/dev_list.list_csv  \
+  --train_input_fp=./dataset/train_list.list_csv  \
+  --eval_input_fp=./dataset/dev_list.list_csv  \
   --pretrain_model_name_or_path=pai-kaleidobert-base-en  \
   --input_sequence_length=64  \
   --train_batch_size=64  \
