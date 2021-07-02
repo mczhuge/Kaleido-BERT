@@ -4,7 +4,7 @@
 
 task=img2txt
 echo "================ Kaleido-BERT ${task} Finetune ==============="
-ls -d ./datasets/retrieve/retrieve_i2t_* > ./datasets/eval_${task}_list.list_csv
+ls -d ./dataset/retrieve/retrieve_i2t_* > ./dataset/eval_${task}_list.list_csv
 
 export CUDA_VISIBLE_DEVICES="0,1,2,3"
 
@@ -12,7 +12,7 @@ python pretrain_main.py \
   --workerGPU=4 \
   --type=${task}  \
   --mode=predict \
-  --predict_input_fp=./datasets/eval_${task}_list.list_csv  \
+  --predict_input_fp=./dataset/eval_${task}_list.list_csv  \
   --predict_batch_size=64  \
   --input_sequence_length=64  \
   --output_dir=./checkpoint/retrieve/${task}  \
