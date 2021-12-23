@@ -91,7 +91,7 @@ Thanks Alibaba ICBU Search Team and Alibaba PAI Team for technical support.
 ```
 
 ## Contact
-* Mingchen Zhuge (email: mczhuge@cug.edu.cn | wechat: tjpxiaoming)
+* Mingchen Zhuge (email: mczhuge@gmail.com | wechat: tjpxiaoming)
 
 * Deng-Ping Fan (email: denpfan@gmail.com)
 
