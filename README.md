@@ -16,7 +16,8 @@ To this end, we carry out five novel tasks, \ie, rotation, jigsaw, camouflage, g
 ## Noted
 1) Code will be released in 2021/4/16.
 2) This is the tensorflow implementation built on [Alibaba/EasyTransfer](https://github.com/alibaba/EasyTransfer). 
-3) If you feel hard to download these datasets, please modify `/dataset/get_pretrain_data.sh`, `/dataset/get_finetune_data.sh`, `/dataset/get_retrieve_data.sh`, and comment out some `wget #file_links` as you want. This will not inhibit following implementation.
+   The plan to release a PyTorch version of Kaleido-BERT has been canceled as a result of my departure from Alibaba Group (Sorry for the inconvience).
+4) If you feel hard to download these datasets, please modify `/dataset/get_pretrain_data.sh`, `/dataset/get_finetune_data.sh`, `/dataset/get_retrieve_data.sh`, and comment out some `wget #file_links` as you want. This will not inhibit following implementation.
    
 ## Get started
 1. Clone this code
