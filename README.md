@@ -80,13 +80,12 @@ Thanks Alibaba ICBU Search Team and Alibaba PAI Team for technical support.
 
 ## Citing Kaleido-BERT
 ```
-@InProceedings{Zhuge_2021_CVPR,
-    author    = {Zhuge, Mingchen and Gao, Dehong and Fan, Deng-Ping and Jin, Linbo and Chen, Ben and Zhou, Haoming and Qiu, Minghui and Shao, Ling},
-    title     = {Kaleido-BERT: Vision-Language Pre-Training on Fashion Domain},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    month     = {June},
-    year      = {2021},
-    pages     = {12647-12657}
+@inproceedings{zhuge2021kaleido,
+  title={Kaleido-bert: Vision-language pre-training on fashion domain},
+  author={Zhuge, Mingchen and Gao, Dehong and Fan, Deng-Ping and Jin, Linbo and Chen, Ben and Zhou, Haoming and Qiu, Minghui and Shao, Ling},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={12647--12657},
+  year={2021}
 }
 ```
 
