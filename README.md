@@ -1,4 +1,4 @@
-## <p align=center>`Kaleido-BERT: Vision-Language Pre-training on Fashion Domain`</p><!-- omit in toc -->
+<p align="center"><img src="kaleido_logo" width="350"></p>
  
 Mingchen Zhuge*, Dehong Gao*, Deng-Ping Fan#, Linbo Jin, Ben Chen, Haoming Zhou, Minghui Qiu, Ling Shao.
 
