@@ -1,4 +1,4 @@
-<p align="center"><img src="kaleido_logo.pdf" width="350"></p>
+<p align="center"><img src="kaleidobert_logo.png" width="350"></p>
  
 Mingchen Zhuge*, Dehong Gao*, Deng-Ping Fan#, Linbo Jin, Ben Chen, Haoming Zhou, Minghui Qiu, Ling Shao.
 
