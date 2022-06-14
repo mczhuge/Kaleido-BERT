@@ -86,7 +86,8 @@ Thanks Alibaba ICBU Search Team and Alibaba PAI Team for technical support.
 ```
 
 ## Contact
-* Mingchen Zhuge (email: mczhuge@gmail.com)
-* Dehong Gao (email:dehong.gdh@alibaba-inc.com)    
+* Mingchen Zhuge (mczhuge@gmail.com)
+* Dehong Gao (dehong.gdh@alibaba-inc.com)  
+* Deng-Ping Fan (dpfan@gmail.com)  
         
 Feel free to contact us if you have additional questions. 
